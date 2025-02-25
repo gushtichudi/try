@@ -1,3 +1,5 @@
+### ⚠️ I go as by <u>luhphr3ii</u>!
+
 # try
 A short Python script to brute-force a command.
 
