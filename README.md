@@ -1,4 +1,4 @@
-### ⚠️ I go as by <u>luhphr3ii</u>!
+### ⚠️  I go by __luhphr3ii__ on discord!
 
 # try
 A short Python script to brute-force a command.
