@@ -1,4 +1,4 @@
-### ⚠️  I go by __luhphr3ii__ on discord!
+
 
 # try
 A short Python script to brute-force a command.
@@ -6,7 +6,7 @@ A short Python script to brute-force a command.
 ### Usage:
 ```sh
 $ try git clone https://www.github.com/large/repository
-luhphr3ii's try - v1.0.0
+'s try - v1.0.0
 
 Cloning into 'AAA' ...
 ... .... ... .... .. ..
